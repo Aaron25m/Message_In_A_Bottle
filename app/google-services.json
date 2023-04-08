@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217723452399",
+    "project_id": "pigeon-mach3",
+    "storage_bucket": "pigeon-mach3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217723452399:android:36e06071119f2e4d82941a",
+        "android_client_info": {
+          "package_name": "com.example.pigeon_mach3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217723452399-0u8o09k62k6juaj7hi5ue5dk9ofhisi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcw2sAeTinAozoi9jFbyyg5nvvYcRySFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217723452399-0u8o09k62k6juaj7hi5ue5dk9ofhisi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
